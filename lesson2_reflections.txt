@@ -1,0 +1,4 @@
+to start tracking my files!
+
+staging area allows you to selectively commit only part of your new files so as to separate out a few changes into individual logical steps
+
