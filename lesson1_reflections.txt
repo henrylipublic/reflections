@@ -1,0 +1,13 @@
+it allows you to quickly zoom into the differences.
+
+it allows you to spot changes easily, and compare to older versions when you see something wrong with your code.
+
+pro: meaningful commits. cons: you may forget to save or commit. 
+
+interrelated files
+
+check versions and compare 
+
+knowing that you can always use git checkout to see a previous version :)
+
+not sure if I can use it for my android app?
