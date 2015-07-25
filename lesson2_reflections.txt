@@ -9,3 +9,5 @@ new feature, new idea
 helps in visualisation
 
 helps to combine changes!
+
+can be a bit hard to see the changes. no GUI!!
